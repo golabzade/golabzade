@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on two private projects.
 - 💬 Ask me about Laravel and PHP.
-- 📫 You can reach me on: [Telegram](https://t.me/gHosseing).
+- 📫 You can reach me on: [Telegram](https://t.me/H_Golabzade).
 - ⚡ Fun fact: I enjoy playing video games.
 
 #### 🛠️ languages, tools and frameworks that I use:
